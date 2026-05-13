@@ -16,4 +16,4 @@ El proyecto está dividido en 3 tareas principales:
 - **Validaciones:** Se controla que los montos de pago no sean negativos.
 
 ## Video Explicativo
-ENLACE
+[ENLACE:](https://www.youtube.com/watch?v=6MeE--8m6x4)
